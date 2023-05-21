@@ -2,7 +2,7 @@ import './globals.css'
 
 export const metadata = {
   title: 'ARES',
-  description: '<Mass driver simulation>',
+  description: '<Mass Driver Simulation>',
 }
 
 export default function RootLayout({ children }) {
