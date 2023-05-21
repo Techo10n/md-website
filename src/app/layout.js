@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'Mass Driver | Ethan A. Gerber and Zechariah Frierson',
+  title: 'ARES',
   description: '<Mass driver simulation>',
 }
 
